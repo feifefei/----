@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/caokong/caokong",
+    "pages/huoqu/huoqu",
+    "pages/index/index"
+    
+  ],
+  "sitemapLocation": "sitemap.json"
+}

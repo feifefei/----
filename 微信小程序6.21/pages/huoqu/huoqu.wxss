@@ -1,0 +1,38 @@
+/* pages/huoqu/huoqu.wxss */
+  
+.bt_connect {
+  width: 250rpx;
+  height: 90rpx;
+  color: #6699FF;
+  border: 3rpx solid #6699FF;
+  border-radius: 80rpx;
+  font-size: 35rpx;
+  margin-top: 40rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hover-class-1{
+  top:3rpx;
+  background-color:#081b29
+}
+.jump-btn1 {
+  width: 350rpx;
+  height: 80rpx;
+  background-color: #73d616;
+  border-radius: 80rpx;
+  margin-top: 800rpx;
+}
+.shuju
+{
+  font-size: 25px;
+  color:#000105
+}
+.background-img {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}

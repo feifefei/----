@@ -1,0 +1,9 @@
+<image class="background-img" src="/pages/images/beijing.jpg"></image>
+<view class='time'>
+    <text>{{time}}</text>
+</view>
+<button class="button" catchtap="changeFlag">A:{{start_flag?'停止专注':'开始专注'}}</button>
+<button    class="button"  catchtap="clear">B:重置</button>
+<input class="shuru"   bindinput="bindTextInput" value='{{textValue}}'></input>
+<button  class="button" catchtap="set">C:确定</button>
+<button class="jump-btn1"  bindtap="jumpToMusic" >跳转到主界面</button>

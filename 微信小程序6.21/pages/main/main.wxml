@@ -1,0 +1,9 @@
+
+<view class="container">
+  <image class="background-img" src="/pages/images/beijing.jpg"></image>
+  <text class="ziti">健康学习</text>
+  <image class="tupian" src="/pages/images/xuexi.png"></image>
+  <button class="jump-btn"  bindtap="jumpToCaokong" >跳转到数据界面</button>
+  <button class="jump-btn1"  bindtap="jumpToMusic" >跳转到音乐播放界面</button>
+  <button class="jump-btn1"  bindtap="jumpTocaokong" >跳转到专注界面</button>
+</view>
